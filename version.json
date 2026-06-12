@@ -1,6 +1,1 @@
-{
-  "version": "1.0.0",
-  "download_url": "https://github.com/WenDongGuo/ReportConsolidationSystem_Releases/releases/download/v1.0.0/app-v1.0.0.zip",
-  "sha256": "799a67ef5cfae940c4ff40ecb07df966a0f0e3a7639cc918bc923a4cc0478529",
-  "changelog": ""
-}
+{"version": "1.1.0", "download_url": "https://github.com/WenDongGuo/ReportConsolidationSystem_Releases/releases/download/v1.1.0/app-v1.1.0.zip", "sha256": "91777bb1969d0e30059bbc02591c6bef18addf9faadbe4edda12958256b0724e", "changelog": "子分录重构 + 调整计算引擎统一 + 版本号规范"}
