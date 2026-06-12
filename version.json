@@ -1,6 +1,6 @@
 {
-  "version": "1.1.4",
-  "download_url": "https://github.com/WenDongGuo/ReportConsolidationSystem_Releases/releases/download/v1.1.4/app-v1.1.4.zip",
-  "sha256": "b67f10cc61a8e359fea3217460f183363c92efc40b5f5e24fe24ea1cf1fe9eba",
-  "changelog": "逐个文件修复验证+删除项目确认弹框+损坏文件指引优化"
+  "version": "1.2.0",
+  "download_url": "https://github.com/WenDongGuo/ReportConsolidationSystem_Releases/releases/download/v1.2.0/app-v1.2.0.zip",
+  "sha256": "acb055ea27478331d2c23141293b699f447b658a043d96e6480c110856259c9b",
+  "changelog": "RawXlsxReader ZIP直读 + HeuristicDetector 启发式检测 + openpyxl降级链路"
 }
