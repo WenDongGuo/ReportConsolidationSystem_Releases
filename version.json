@@ -1,6 +1,6 @@
 {
   "version": "1.1.2",
   "download_url": "https://github.com/WenDongGuo/ReportConsolidationSystem_Releases/releases/download/v1.1.2/app-v1.1.2.zip",
-  "sha256": "d6fa4fb0e7286930c61fc79f86d417a8b7855b5063da0a9b6975ff003ded6afd",
-  "changelog": "内嵌WebView窗口 + XLSX格式校验 + 任务栏图标 + 增量导入 + 同名文件检测"
+  "sha256": "89e3c5a1a9ad61764d0257624d83d9e9fe901542fe3609767c812b1eef907d51",
+  "changelog": "内嵌WebView窗口 + XLSX格式校验 + 任务栏图标 + 增量导入 + 强制同名文件拦截"
 }
