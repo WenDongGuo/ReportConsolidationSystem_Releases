@@ -1,1 +1,1 @@
-{"version": "1.1.0", "download_url": "https://github.com/WenDongGuo/ReportConsolidationSystem_Releases/releases/download/v1.1.0/app-v1.1.0.zip", "sha256": "ee0ad0ec3ffd52ec9880604308f1fcf2a18fbd7d9848d2abbb707869fc3d55c4", "changelog": "修复: 侧边栏隐藏英文导航、PyInstaller兼容、launcher stdin修复"}
+{"version": "1.1.1", "download_url": "https://github.com/WenDongGuo/ReportConsolidationSystem_Releases/releases/download/v1.1.1/app-v1.1.1.zip", "sha256": "1116aa08f67584f6203eb24daadfd5bb53dff0f928a703ee648368491ac338a0", "changelog": "浏览器关闭自动退出 + 侧边栏导航隐藏 + 股权导入修复"}
