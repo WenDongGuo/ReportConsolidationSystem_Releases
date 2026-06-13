@@ -1,7 +1,7 @@
 {
-  "version": "1.4.0",
-  "download_url": "https://github.com/WenDongGuo/ReportConsolidationSystem_Releases/releases/download/v1.4.0/app-v1.4.0.zip",
-  "sha256": "93bb9034feb90da8de26cea374bc9adf7ff5bb1475f1797325aabe93347faae8",
-  "changelog": "修复: launcher configs_dir未定义错误",
-  "min_launcher_version": "1.0.0"
+    "version": "1.4.2",
+    "download_url": "https://github.com/WenDongGuo/ReportConsolidationSystem_Releases/releases/download/v1.4.2/app-v1.4.2.zip",
+    "sha256": "801e6ee8a268f783a9be784ddfbb3e6e1740e71b24e4910a5d4f5ea71254c0d2",
+    "changelog": "修复: CAS 准则查看器EXE兼容+持久化存储",
+    "min_launcher_version": "1.0.0"
 }
