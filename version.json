@@ -1,7 +1,7 @@
 {
     "version": "1.4.2",
     "download_url": "https://github.com/WenDongGuo/ReportConsolidationSystem_Releases/releases/download/v1.4.2/app-v1.4.2.zip",
-    "sha256": "801e6ee8a268f783a9be784ddfbb3e6e1740e71b24e4910a5d4f5ea71254c0d2",
-    "changelog": "修复: CAS 准则查看器EXE兼容+持久化存储",
+    "sha256": "55bc3ad0b15811d146df982ae61741bbe7dd1a5d71e229a49179a2dfa0d76f53",
+    "changelog": "修复: CAS进度条显示+webview窗口恢复",
     "min_launcher_version": "1.0.0"
 }
