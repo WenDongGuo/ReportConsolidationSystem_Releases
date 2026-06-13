@@ -1,7 +1,7 @@
 {
-    "version": "1.4.5",
-    "download_url": "https://github.com/WenDongGuo/ReportConsolidationSystem_Releases/releases/download/v1.4.5/app-v1.4.5.zip",
-    "sha256": "2a67a24d38458999186e524ff52288dbbecfc47509f15a025ab2b7a6709aebfe",
-    "changelog": "EXE三修:版本号读取/隐藏控制台/日志静默",
+    "version": "1.4.6",
+    "download_url": "https://github.com/WenDongGuo/ReportConsolidationSystem_Releases/releases/download/v1.4.6/app-v1.4.6.zip",
+    "sha256": "ecff042b42879a43ebcfa2aee6de0cf9faaaf0fbbb1beb0e2bed22986e6aaf8e",
+    "changelog": "CAS准则下载修复: URL协议相对路径bug/全量下载增加补充材料",
     "min_launcher_version": "1.0.0"
 }
