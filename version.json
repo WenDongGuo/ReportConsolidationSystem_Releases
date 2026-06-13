@@ -2,6 +2,6 @@
     "version": "1.4.6",
     "download_url": "https://github.com/WenDongGuo/ReportConsolidationSystem_Releases/releases/download/v1.4.6/app-v1.4.6.zip",
     "sha256": "c83fe2c577fa224a6614b67732bc27f71d1c74e1e1f224fb6529a60489d752bd",
-    "changelog": "CAS准则下载修复: URL协议相对路径bug/全量下载增加补充材料",
+    "changelog": "CAS准则下载修复: URL协议相对路径bug/全量下载增加补充材料/缓存路径移到持久化目录",
     "min_launcher_version": "1.0.0"
 }
