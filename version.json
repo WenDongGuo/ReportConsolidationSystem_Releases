@@ -1,7 +1,7 @@
 {
     "version": "1.4.2",
     "download_url": "https://github.com/WenDongGuo/ReportConsolidationSystem_Releases/releases/download/v1.4.2/app-v1.4.2.zip",
-    "sha256": "f1c80858446cb516d0f27c19d61862f74949dde6d81fb681c60e88188a3fbb00",
-    "changelog": "清理config独立分发死代码",
+    "sha256": "e7db710a53c0d47d9401b76cf0636698263d412fb96428c92aadba4bd03f8153",
+    "changelog": "代码全检:清理死代码/冗余/未用import",
     "min_launcher_version": "1.0.0"
 }
