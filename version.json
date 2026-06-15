@@ -1,7 +1,7 @@
 {
-    "version": "1.4.7",
-    "download_url": "https://github.com/WenDongGuo/ReportConsolidationSystem_Releases/releases/download/v1.4.7/app-v1.4.7.zip",
-    "sha256": "96571961feb30e75b2f1658d58d53a80e06a77abb2de441be5e47886eeee5f41",
-    "changelog": "修复CAS缓存路径: cas_viewer.py fetcher路径改到持久化目录CAS_DIR",
+    "version": "1.4.8",
+    "download_url": "https://github.com/WenDongGuo/ReportConsolidationSystem_Releases/releases/download/v1.4.8/app-v1.4.8.zip",
+    "sha256": "eb0165c6202f3d29f6a3593b1848576529812ca5af6cdd8a01fab1404b7908dc",
+    "changelog": "组织架构图支持自定义缩放/拖拽/平移",
     "min_launcher_version": "1.0.0"
 }
