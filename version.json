@@ -1,7 +1,7 @@
 {
-    "version": "1.4.8",
-    "download_url": "https://github.com/WenDongGuo/ReportConsolidationSystem_Releases/releases/download/v1.4.8/app-v1.4.8.zip",
-    "sha256": "eb0165c6202f3d29f6a3593b1848576529812ca5af6cdd8a01fab1404b7908dc",
-    "changelog": "组织架构图支持自定义缩放/拖拽/平移",
+    "version": "1.5.0",
+    "download_url": "https://github.com/WenDongGuo/ReportConsolidationSystem_Releases/releases/download/v1.5.0/app-v1.5.0.zip",
+    "sha256": "bf274b009adf9b0b7c50a0e743a3e644981ec15cd4bf7c1d8b30944f06f69216",
+    "changelog": "PySide6 桌面版首发 — 完整 8 页面迁移 + macOS 风格 UI + 深色/浅色主题自动跟随 + 分录附件系统 + 公司级导入表格 + 股权架构图弹窗",
     "min_launcher_version": "1.0.0"
 }
